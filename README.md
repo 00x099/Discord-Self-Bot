@@ -91,3 +91,7 @@
 <p align="center">Automated: Run setup.bat. Launch the new file created.</p>
 
 ###
+
+<p align="left">Credit: a5straa / https://github.com/AstraaDev</p>
+
+###
