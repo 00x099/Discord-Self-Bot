@@ -1,0 +1,11 @@
+requests
+colorama
+discord.py-self
+gtts
+qrcode
+pyfiglet
+numpy
+Pillow
+beautifulsoup4
+aiohttp
+python-dateutil

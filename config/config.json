@@ -1,0 +1,33 @@
+{
+    "token": "Token_Here",
+    "prefix": "*",
+    "remote-users": [],
+    "autoreply": {
+        "messages": [
+            "https://discord.gg/DvwREVZf4r",
+            "From Aether"
+        ],
+        "channels": [],
+        "users": []
+    },
+    "afk": {
+        "enabled": false,
+        "message": "AFK, Will reply later"
+    },
+    "annoy": {
+        "users": [
+            12345678910111213
+        ]
+    },
+    "logged-word": { 
+        "logged-words": [
+            "https://discord.gg/DvwREVZf4r",
+            "test"
+        ]
+    },
+    "logging": {
+        "webhook_url": "webhook_url",
+        "user_id": 12345678910111213
+    }
+}
+
