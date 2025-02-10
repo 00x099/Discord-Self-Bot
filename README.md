@@ -12,6 +12,10 @@
 
 ###
 
+<h1 align="center"></h1>
+
+###
+
 <h1 align="center">Aether Self bot</h1>
 
 ###
@@ -23,6 +27,12 @@
 <p align="left">[Discord] - SelfBot is a versatile and powerful script designed to enhance your Discord experience on Windows, Linux, and macOS. Built using Python, this SelfBot offers a wide range of commands and features tailored to simplify and automate various tasks on Discord.<br><br>The SelfBot comes with an intuitive interface, making it easy to navigate and use, even for those new to self-bots. It includes comprehensive help documentation to guide you through its functionalities and ensure you get the most out of it. Regular updates are provided to maintain compatibility with Discord's latest changes and to improve overall performance.<br><br>While some unnecessary commands have been removed to keep the bot lightweight and efficient, user feedback is highly valued. You are encouraged to suggest new features or commands via issues on the repository or through direct communication on Discord. This ensures the SelfBot continues to evolve and meet the needs of its users.</p>
 
 ###
+
+<h1 align="center"></h1>
+
+###
+
+<br clear="both">
 
 <h3 align="left">🛠 Language</h3>
 
@@ -36,7 +46,15 @@
 
 ###
 
-<h3 align="left">ℹ   Disclaimer :<br><br>This script is potentially malicious and unethical. It can be used for malicious purposes, such as stealing user tokens, personal information, and other sensitive data. Using this script for malicious purposes without the user's consent is illegal and violates ethical guidelines. Do not use this script without proper authorization.</h3>
+<h1 align="center"></h1>
+
+###
+
+<h3 align="center">ℹ   Disclaimer :<br><br>This script is potentially malicious and unethical. It can be used for malicious purposes, such as stealing user tokens, personal information, and other sensitive data. Using this script for malicious purposes without the user's consent is illegal and violates ethical guidelines. Do not use this script without proper authorization.</h3>
+
+###
+
+<h1 align="center"></h1>
 
 ###
 
@@ -48,6 +66,10 @@
 
 ###
 
+<h1 align="center"></h1>
+
+###
+
 <h2 align="center">How to Setup:</h2>
 
 ###
@@ -55,6 +77,10 @@
 <br clear="both">
 
 <h6 align="left">{<br>  "token": "TOKEN-HERE", // Your Discord bot token, required to log in to the bot account<br><br><br>  "prefix": "PREFIX-HERE", // Prefix used to trigger bot commands (e.g., "*help")<br><br>  <br>  "remote-users": ["USER-ID-1", "USER-ID-2"], // List of user IDs that the bot will listen to for remote command execution<br>    "autoreply": {<br>        "messages": [<br>            "test",<br>            "From Aether"<br>        ],<br>        "channels": [],<br>        "users": []<br>    },<br>    "afk": {<br>        "enabled": false, // Whether AFK mode is enabled or disabled<br>        "message": "AFK, Will reply later" // The message that the bot will send when AFK is enabled<br>    },<br>    "annoy": { // Where the userID for annoyed command is stored<br>        "users": [<br>            123456789101112131415<br>        ]<br>    },<br>    "logged-word": { // This is where logged words are stored you can manually add words here or use the command *log <word><br>        "logged-words": [<br>            "test1",<br>            "test"<br>        ]<br>    },<br>    "logging": {<br>        "webhook_url": "WEBHOOK_HERE", // Your webhook url for word logging<br>        "user_id": 123456789101112131415 // Your webhook url so it doesnt detect yourself<br>    }<br>}</h6>
+
+###
+
+<h1 align="center"></h1>
 
 ###
 
