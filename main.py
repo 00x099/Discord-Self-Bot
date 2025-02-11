@@ -1656,6 +1656,8 @@ async def decode(ctx, arg):
 [0;31mBase64:[0m[0;36m {arg}[0;35m
 [0;31mText:[0m[0;36m {outputin}
 ```''')
+
+@bot.command(aliases=['ghostping']) 
 async def gping(ctx, arg1, arg2):
     await ctx.message.delete()
 
