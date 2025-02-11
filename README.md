@@ -92,6 +92,6 @@
 
 ###
 
-<p align="left">Credit: a5straa / https://github.com/AstraaDev</p>
+<p align="left">Credit: a5straa / https://github.com/AstraaDev / https://discord.gg/cZmtKUJwxs</p>
 
 ###
